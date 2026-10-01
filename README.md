@@ -25,6 +25,7 @@ INSTALL
 2. Start SteamVR (or your OpenXR runtime), then launch the game.
 3. In the game's options, set the input device to Automatic (or Gamepad), not Keyboard/Mouse.
    
+To disable Mod: rename winhttp.dll to winhttp.dll.bak or  win http.dll  (or set enabled = false in doorstop_config.ini).
 
 CONTROLS (right-handed default = Xbox layout on Quest-style controllers)
 --------------------------------------------------------------------------
